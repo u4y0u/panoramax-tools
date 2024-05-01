@@ -1,6 +1,6 @@
 # panoramax-tools
 
-Visualiser les tracés Panoramax sur son smartphone avec QFiled.
+Visualiser les tracés Panoramax sur son smartphone avec QField (QGIS pour mobile).
 
 Projet QGIS avec couche Panoramax simple:
 https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS.qgz
