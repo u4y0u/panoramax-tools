@@ -8,6 +8,12 @@ Projet QGIS avec couche Panoramax **simple**:
 Projet QGIS avec couche Panoramax et **tracking GPS**.
 [couche panoramax avec tracking](https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS%20with%20tracking%20session.qgz)
 
+
+Projet QGIS avec couche Panoramax **haute visibilité**:
+https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS%20haute%20visibilit%C3%A9.qgz
+
+Projet QGIS avec couche Panoramax **haute visibilité avec tracking**:
+
 ![copie d'écran smartphone](couche_panoramax_simple.jpeg)
 ## Liens
 site **[QField](https://www.qfield.org/)**
