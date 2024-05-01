@@ -10,9 +10,10 @@ Projet QGIS avec couche Panoramax et **tracking GPS**.
 
 
 Projet QGIS avec couche Panoramax **haute visibilité**:
-https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS%20haute%20visibilit%C3%A9.qgz
+[couche panoramax haute visibilité](https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS%20haute%20visibilit%C3%A9.qgz)
 
 Projet QGIS avec couche Panoramax **haute visibilité avec tracking**:
+[couche panoramax haute visibilité avec tracking](https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20QGIS%20haute%20visibilit%C3%A9%20et%20tracking%20v2.qgz)
 
 ![copie d'écran smartphone](couche_panoramax_simple.jpeg)
 ## Liens
