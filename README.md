@@ -4,8 +4,10 @@
 
 
 Projet QGIS avec couche Panoramax, **tracking GPS** et 4 couleurs age des traces et fond Topen25 avec les deux instances OSM et IGN.
+Couches selectionnables dans le menu QField.
 
 [couche panoramax haute visibilité tracking age color v4 Topen25](https://github.com/u4y0u/panoramax-tools/blob/main/couche%20panoramax%20HV%20tracking%20color%20Topen25.zip)
+
 ![couche panoramax QGIS HV tracking age color v4 Topen25](couche%20panoramax%20QGIS%20HV%20tracking%20age%20color%20v4%20Topen25.png)
 
 
